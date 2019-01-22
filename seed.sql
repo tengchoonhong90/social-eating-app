@@ -1,0 +1,53 @@
+INSERT INTO users (username, password, email) VALUES
+('Sagittal', 'DAFF107CAA6E55343C4977972DFA0B4C4E4E1189C8C27E02D3812A8CDC8448C9', 'eidac@outlook.com'),
+--password: 8{8cL:
+('DerllmeisMalady', 'A4E01B676EBEE388DF82021DDCB0EEF3C2B2F8EEE512141ECF00A759DF9D7E45', 'parasite@sbcglobal.net'),
+--password: '#5aYndeW}byYY&#
+('SaphenSecco', 'B4B66770391B8656CC6856C28695ECAFC32BEA7EA94587E9925720731AF9E949', 'bdbrown@outlook.com'),
+--password: ca=7gVufehS+u{&%
+('Neology', '7AD7A2E3EBFC8E481B9A7E89743516E14C04871C0AB48DE77DABBBA7EAEFE58A', 'jsbach@gmail.com'),
+--password: b5sm'\M?~"%29;zR
+('Mulctuary', '7C4CE9B7926EABC057DE537BCB0D86CC4FEE2FC3BCADA9C8EB213B1FA595F1E3', 'malvar@mac.com'),
+--password: [)mJ3j3J;tU-Tx=\
+('Ebrious', 'EADF8741B1E82C06D9B7DE45D500ECCEE15BFB8C9757593EA5644E7231E0AAFD', 'mahbub@yahoo.com'),
+--password: -eB%dqU$%e9]~V*>
+('Palomino', 'B8B1564A225ED88207D11E45320225B2B87614F6A0713BB6600BE76BFC52F9F4', 'durist@outlook.com'),
+--password: Qu=Wqk}5avL/AaQh
+('Luminous', 'C8EC339C5B4817A93B9082B1EE28EE69CB7B74A809D7EE2E792119F162635DC7', 'bester@yahoo.com'),
+--password: sP"@nhTVh9T3+4cf
+('ShienBroma', '52AA9BB7A671A75079BFFD07B964EC0E5DBBD8E90A869F845693EF1CFDDC09FE', 'markjugg@comcast.net'),
+--password: `4G-5nwy>55LEcL^
+('Abattoir', 'AEC683420196A902CC400ECE8F33DE51DD146E39F02B4356F1F2216ABFEB439A', 'qmacro@live.com'),
+--password: V+)v(bn*G:ux5GN`
+('Therblig', 'EB337B4336525A8F0DEEEA30078BC0F53D41AFBD0430362051B7CD33E04561A3', 'rhavyn@yahoo.ca'),
+--password: aGG8ff:>NVV&DBr%
+('Abderian', 'ECE9AFB6803BFCC22F0A2C50004CA823B415EF525CB5448B66419C15ED529150', 'ramollin@aol.com'),
+--password: ULr#dD&3N27~\pF=
+('Xerotic', 'F384399104843B03F446A57A10549C64FC87A89A8AA3FF63C5E6130A186E093F', 'jfreedma@att.net'),
+--password: [qPrX9Nbh9UzD<-S
+('Abderian', '245565D87D295A31A93A5A823994E01DB09EB6C129B69777CD9A564F7E6AB65E', 'jorgb@gmail.com'),
+--password: r\vNLU'dT7FgD@<!
+('Petrology', '410BC0AA556981B6108A7685278AB06142B1461A83173A70338A365B5904A7BE', 'mrdvt@yahoo.com'),
+--password: J\kwc2?@J\m5yq*8
+('LysiasVaran', '69C18B7F36B3DB1BD5005997795A26D2C455B0A590895508DBC86BFFA7F08F05', 'arnold@yahoo.com'),
+--password: df8pq_T7dT?SkZhh
+('Adhocracy', '03AC65F4A96D64E4524BFE9075827A5EF3A5ECCC05088919DAFF0D81549F7B58', 'mahbub@me.com'),
+--password: hcT8X>7_{yQ5r&*F
+('Grampus', 'AB72304766BC40DE2C076E5F9C19E4EBFB3E0A12593963EAAF0C17FD97E75130', 'keiji@gmail.com'),
+--password: U7yK6zP'tt!Z=,GL
+('Flaughter', 'B733EBA8FB20FBD0CA5443F593D6FB4286E85298CD62855F7EB85D04A24CB09D', 'iapetus@comcast.net'),
+--password: -"/Hvh6u]D9'3t]q
+('Penelopize', '1FB6DF267AD7CD9A82092884090BE7AAA4EBEDE3998D17D69129F5DCCAA77CA4', 'chaffar@verizon.net'),
+--password: #7G-m&(=>8PuC+Qc
+('CyntheaUrochs', '06A0423147604C6761265B26C75FEF8958C7201B5437B4F797E07C2055296536', 'dmouse@icloud.com');
+--password: 848Ny*yhPrE.F>zm
+
+
+INSERT INTO events (event_name, event_type, meeting_time, location, photo) VALUES
+('EAT', 'lunch', '12:00pm', 'Mcdonalds, Woodlands', 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9005.887310591554!2d103.78760485164165!3d1.438150832973989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1426ba249ac1362c!2sMcDonald%E2%80%99s+Causeway+Point!5e0!3m2!1sen!2ssg!4v1548059196820'),
+('EAT AGAIN', 'dinner', '1900hrs', 'KFC, Woodlands', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5651108446195!2d103.7837584143158!3d1.4360986616933746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13a8a2efa6ab%3A0xe452f9da15834564!2sKFC+Causeway+Point!5e0!3m2!1sen!2ssg!4v1548060291001'),
+('EAT SOMEMORE', 'dinner', '2000hrs', 'Burger King, Woodlands', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5638786011077!2d103.78424261431579!3d1.4368045616912066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13a8bdc468c5%3A0xcaae92e83116a108!2sBurger+King!5e0!3m2!1sen!2ssg!4v1548060378168'),
+('KEEP EATING', 'dinner', '07:15pm', 'Texas Chicken, Woodlands', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.565778296973!2d103.78336091431581!3d1.4357161616945593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13a897426727%3A0xb0b1d01d2663ff39!2sTexas+Chicken!5e0!3m2!1sen!2ssg!4v1548060437461'),
+('DON"T STOP EATING', 'lunch', '11:30am', 'Chai Peng, Woodlands', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5653008903314!2d103.78382401431583!3d1.435989761693705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13a8bd844883%3A0x4f271a68efda9c2e!2sCauseway+Point!5e0!3m2!1sen!2ssg!4v1548060506438');
+
+-- INSERT INTO groups (group_name, users_id)

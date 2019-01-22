@@ -1,0 +1,25 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.iframes {
+    width: 600px; 
+    height: 450px; 
+    /* frameborder="0" 
+    style="border:0" 
+    allowfullscreen */
+}
+
+.flexbox{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.navbar {
+    padding: 10px;
+}
+
+.navbar-brand {
+    padding: 5px;    
+}
